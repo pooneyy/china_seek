@@ -21,4 +21,4 @@
 | [寻人信息表.xlsx](https://github.com/pooneyy/china_seek/releases/tag/2025.06.08) | 完整的寻人信息表，附带照片。<br>**SHA256** `521818C9C3947D3C7C35C9F7A575B0813F101BC43DAA7C8F197A182B0BB3B955` |
 | 寻人信息表_轻量.xlsx | 精简的寻人信息表，不附带照片，取而代之的是照片的超链接。<br>**SHA256**`DF64B3B04BBD61F4F3C7FD149379BD2E7D54094B30838F6A690984DCDF29E5D7` |
 
-注：照片采集自中国寻亲网（www.china-seek.net），并上传到第三方公益图床，该图床的稳定性无法保证。
+注：照片采集自中国寻亲网（ www.china-seek.net ），并上传到第三方公益图床，该图床的稳定性无法保证。
